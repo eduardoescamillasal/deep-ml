@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T16:55:36.132Z",
+  "generated_at": "2026-11-06T17:20:17.422Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -157,6 +157,17 @@
       "path": "math/0410-woodbury-sherman-morrison-and-the-matrix-determinant-lemma",
       "first_solved_at": "2026-11-06T16:55:31.582Z",
       "last_pushed_at": "2026-11-06T16:55:31.582Z"
+    },
+    "math:14": {
+      "kind": "math",
+      "id": "14",
+      "title": "Orthogonality and Projections",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/14",
+      "path": "math/0014-orthogonality-and-projections",
+      "first_solved_at": "2026-11-06T17:20:16.670Z",
+      "last_pushed_at": "2026-11-06T17:20:16.670Z"
     }
   }
 }

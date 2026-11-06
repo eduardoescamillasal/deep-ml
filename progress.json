@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T03:47:31.545Z",
+  "generated_at": "2026-11-06T04:09:57.688Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -96,6 +96,19 @@
       "path": "math/0012-inverse-and-rank",
       "first_solved_at": "2026-11-06T03:47:30.534Z",
       "last_pushed_at": "2026-11-06T03:47:30.534Z"
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-11-06T04:09:56.782Z",
+      "last_pushed_at": "2026-11-06T04:09:56.782Z",
+      "language": "python",
+      "lines": 4
     }
   }
 }

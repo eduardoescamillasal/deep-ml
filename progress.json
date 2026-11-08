@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T17:12:11.032Z",
+  "generated_at": "2026-11-08T17:13:36.169Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -437,9 +437,9 @@
       "url": "https://www.deep-ml.com/problems/1268",
       "path": "problems/1268-tensor-puzzle-ones-vector-from-first-principles",
       "first_solved_at": "2026-11-08T17:11:58.401Z",
-      "last_pushed_at": "2026-11-08T17:11:58.401Z",
+      "last_pushed_at": "2026-11-08T17:13:35.481Z",
       "language": "python",
-      "lines": 10
+      "lines": 8
     }
   }
 }

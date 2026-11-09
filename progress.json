@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T17:23:19.077Z",
+  "generated_at": "2026-11-09T17:23:21.847Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -563,7 +563,7 @@
       "url": "https://www.deep-ml.com/math-problems/30",
       "path": "math/0030-ml-workflow-basics",
       "first_solved_at": "2026-11-09T17:22:22.864Z",
-      "last_pushed_at": "2026-11-09T17:23:18.379Z"
+      "last_pushed_at": "2026-11-09T17:23:18.801Z"
     }
   }
 }

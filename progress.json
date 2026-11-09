@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T16:39:04.969Z",
+  "generated_at": "2026-11-09T17:04:28.330Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -529,6 +529,17 @@
       "path": "math/0015-matrix-decompositions-lu-and-qr",
       "first_solved_at": "2026-11-09T16:38:59.039Z",
       "last_pushed_at": "2026-11-09T16:38:59.039Z"
+    },
+    "math:18": {
+      "kind": "math",
+      "id": "18",
+      "title": "Descriptive Statistics",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/18",
+      "path": "math/0018-descriptive-statistics",
+      "first_solved_at": "2026-11-09T17:04:27.642Z",
+      "last_pushed_at": "2026-11-09T17:04:27.642Z"
     }
   }
 }

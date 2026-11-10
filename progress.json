@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T17:14:36.361Z",
+  "generated_at": "2026-11-10T17:15:15.626Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -622,9 +622,9 @@
       "url": "https://www.deep-ml.com/problems/1141",
       "path": "problems/1141-count-words-appearing-exactly-once-in-each-of-two-lists",
       "first_solved_at": "2026-11-10T17:14:35.481Z",
-      "last_pushed_at": "2026-11-10T17:14:35.481Z",
+      "last_pushed_at": "2026-11-10T17:15:14.793Z",
       "language": "python",
-      "lines": 23
+      "lines": 17
     }
   }
 }

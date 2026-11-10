@@ -5,16 +5,10 @@ def count_common_unique(list1, list2):
     dict1 = {}
     dict2 = {}
     for el in list1:
-        if el not in dict1:
-            dict1[el] = 1
-        else:
-            dict1[el] += 1
+        dict1[el] = dict1.get(el,0) + 1
 
     for el in list2:
-        if el not in dict2:
-            dict2[el] = 1
-        else:
-            dict2[el] += 1
+        dict2[el] = dict2.get(el,0) + 1
 
     inter_cnt = 0
     for el, freq in dict1.items():

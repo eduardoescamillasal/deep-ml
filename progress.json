@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T16:50:10.380Z",
+  "generated_at": "2026-11-10T17:02:06.522Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -586,6 +586,19 @@
       "path": "math/0354-missing-data-mechanisms-mcar-mar-nmar-and-the-bias-of-mean-imputation",
       "first_solved_at": "2026-11-10T16:50:09.218Z",
       "last_pushed_at": "2026-11-10T16:50:09.218Z"
+    },
+    "problem:1151": {
+      "kind": "problem",
+      "id": "1151",
+      "title": "First N Fibonacci Numbers",
+      "difficulty": "easy",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1151",
+      "path": "problems/1151-first-n-fibonacci-numbers",
+      "first_solved_at": "2026-11-10T17:02:05.530Z",
+      "last_pushed_at": "2026-11-10T17:02:05.530Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }

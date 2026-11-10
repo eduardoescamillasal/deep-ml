@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**46** solved · 29 problems · 0 labs · 17 math
+**47** solved · 29 problems · 0 labs · 18 math
 
 ![Coverage](./coverage.svg)
 
@@ -61,6 +61,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Schur Complements and the Partitioned Inverse](https://www.deep-ml.com/math-problems/409) | medium | 2026-11-06 | [solution](math/0409-schur-complements-and-the-partitioned-inverse) |
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-11-06 | [solution](math/0013-solving-linear-systems) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-11-08 | [solution](math/0027-statistical-inference) |
+| [Type I and Type II Error, Power, and the Uniform Null](https://www.deep-ml.com/math-problems/83) | medium | 2026-11-10 | [solution](math/0083-type-i-and-type-ii-error-power-and-the-uniform-null) |
 | [Woodbury, Sherman-Morrison and the Matrix Determinant Lemma](https://www.deep-ml.com/math-problems/410) | medium | 2026-11-06 | [solution](math/0410-woodbury-sherman-morrison-and-the-matrix-determinant-lemma) |
 | [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-11-09 | [solution](math/0015-matrix-decompositions-lu-and-qr) |
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T17:37:19.097Z",
+  "generated_at": "2026-11-11T18:20:10.471Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -636,6 +636,19 @@
       "path": "math/0024-information-theory-entropy",
       "first_solved_at": "2026-11-10T17:37:17.799Z",
       "last_pushed_at": "2026-11-10T17:37:17.799Z"
+    },
+    "problem:1101": {
+      "kind": "problem",
+      "id": "1101",
+      "title": "SELECT all rows",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1101",
+      "path": "problems/1101-select-all-rows",
+      "first_solved_at": "2026-11-11T18:20:09.657Z",
+      "last_pushed_at": "2026-11-11T18:20:09.657Z",
+      "language": "sql",
+      "lines": 3
     }
   }
 }

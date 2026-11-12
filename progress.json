@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T22:17:35.060Z",
+  "generated_at": "2026-11-12T17:13:14.501Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -788,6 +788,17 @@
       "path": "math/0033-expectation-and-variance-algebra",
       "first_solved_at": "2026-11-11T22:17:34.273Z",
       "last_pushed_at": "2026-11-11T22:17:34.273Z"
+    },
+    "math:155": {
+      "kind": "math",
+      "id": "155",
+      "title": "The Fourier Transform and the Convolution Theorem",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/155",
+      "path": "math/0155-the-fourier-transform-and-the-convolution-theorem",
+      "first_solved_at": "2026-11-12T17:13:13.657Z",
+      "last_pushed_at": "2026-11-12T17:13:13.657Z"
     }
   }
 }

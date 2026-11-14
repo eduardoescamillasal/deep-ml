@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T16:28:58.883Z",
+  "generated_at": "2026-11-14T16:12:30.813Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -836,6 +836,19 @@
       "path": "math/0412-condition-numbers-why-the-determinant-lies-about-near-singularity",
       "first_solved_at": "2026-11-13T16:28:57.381Z",
       "last_pushed_at": "2026-11-13T16:28:57.381Z"
+    },
+    "problem:328": {
+      "kind": "problem",
+      "id": "328",
+      "title": "Vector Norms (L1/L2/L-inf) and the Frobenius Norm",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/328",
+      "path": "problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm",
+      "first_solved_at": "2026-11-14T16:12:25.620Z",
+      "last_pushed_at": "2026-11-14T16:12:25.620Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }

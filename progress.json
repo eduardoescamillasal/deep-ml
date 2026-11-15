@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T15:21:45.944Z",
+  "generated_at": "2026-11-15T19:11:15.620Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -882,6 +882,19 @@
       "path": "math/0418-subgradients-lipschitz-smoothness-and-strong-convexity",
       "first_solved_at": "2026-11-15T15:21:45.239Z",
       "last_pushed_at": "2026-11-15T15:21:45.239Z"
+    },
+    "problem:218": {
+      "kind": "problem",
+      "id": "218",
+      "title": "Compute the Hessian Matrix",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/218",
+      "path": "problems/0218-compute-the-hessian-matrix",
+      "first_solved_at": "2026-11-15T19:11:14.887Z",
+      "last_pushed_at": "2026-11-15T19:11:14.887Z",
+      "language": "python",
+      "lines": 46
     }
   }
 }

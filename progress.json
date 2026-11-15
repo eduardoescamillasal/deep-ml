@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T16:20:29.917Z",
+  "generated_at": "2026-11-15T15:21:45.944Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -871,6 +871,17 @@
       "path": "math/0050-positive-definite-matrices-and-quadratic-forms",
       "first_solved_at": "2026-11-14T16:20:28.881Z",
       "last_pushed_at": "2026-11-14T16:20:28.881Z"
+    },
+    "math:418": {
+      "kind": "math",
+      "id": "418",
+      "title": "Subgradients, Lipschitz Smoothness and Strong Convexity",
+      "difficulty": "medium",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/418",
+      "path": "math/0418-subgradients-lipschitz-smoothness-and-strong-convexity",
+      "first_solved_at": "2026-11-15T15:21:45.239Z",
+      "last_pushed_at": "2026-11-15T15:21:45.239Z"
     }
   }
 }

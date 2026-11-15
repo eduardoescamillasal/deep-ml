@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**71** solved · 45 problems · 0 labs · 26 math
+**72** solved · 45 problems · 0 labs · 27 math
 
 ![Coverage](./coverage.svg)
 
@@ -83,6 +83,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Schur Complements and the Partitioned Inverse](https://www.deep-ml.com/math-problems/409) | medium | 2026-11-06 | [solution](math/0409-schur-complements-and-the-partitioned-inverse) |
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-11-06 | [solution](math/0013-solving-linear-systems) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-11-08 | [solution](math/0027-statistical-inference) |
+| [Subgradients, Lipschitz Smoothness and Strong Convexity](https://www.deep-ml.com/math-problems/418) | medium | 2026-11-15 | [solution](math/0418-subgradients-lipschitz-smoothness-and-strong-convexity) |
 | [The Fourier Transform and the Convolution Theorem](https://www.deep-ml.com/math-problems/155) | medium | 2026-11-12 | [solution](math/0155-the-fourier-transform-and-the-convolution-theorem) |
 | [Type I and Type II Error, Power, and the Uniform Null](https://www.deep-ml.com/math-problems/83) | medium | 2026-11-10 | [solution](math/0083-type-i-and-type-ii-error-power-and-the-uniform-null) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-11-11 | [solution](math/0008-vector-norms-and-linear-independence) |

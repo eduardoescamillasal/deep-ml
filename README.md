@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**76** solved · 47 problems · 0 labs · 29 math
+**77** solved · 48 problems · 0 labs · 29 math
 
 ![Coverage](./coverage.svg)
 
@@ -49,6 +49,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-11-14 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-11-11 | [solution](problems/1109-your-first-join) |
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-11-08 | [solution](problems/0055-2d-translation-matrix-implementation) |
+| [Apply a 2D Convolution](https://www.deep-ml.com/problems/1233) | medium | 2026-11-17 | [solution](problems/1233-apply-a-2d-convolution) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-11-06 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-11-06 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Classify Critical Points Using Hessian Eigenvalues](https://www.deep-ml.com/problems/311) | medium | 2026-11-15 | [solution](problems/0311-classify-critical-points-using-hessian-eigenvalues) |

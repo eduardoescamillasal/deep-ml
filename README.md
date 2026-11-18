@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**78** solved · 49 problems · 0 labs · 29 math
+**79** solved · 50 problems · 0 labs · 29 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-11-06 | [solution](problems/0083-dot-product-calculator) |
 | [Filter rows with WHERE](https://www.deep-ml.com/problems/1103) | easy | 2026-11-11 | [solution](problems/1103-filter-rows-with-where) |
 | [First N Fibonacci Numbers](https://www.deep-ml.com/problems/1151) | easy | 2026-11-10 | [solution](problems/1151-first-n-fibonacci-numbers) |
+| [Forward Kinematics of a 2-Link Planar Arm](https://www.deep-ml.com/problems/1210) | easy | 2026-11-18 | [solution](problems/1210-forward-kinematics-of-a-2-link-planar-arm) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-11-08 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-11-06 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-11-06 | [solution](problems/0015-linear-regression-using-gradient-descent) |

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**95** solved · 66 problems · 0 labs · 29 math
+**96** solved · 67 problems · 0 labs · 29 math
 
 ![Coverage](./coverage.svg)
 
@@ -77,6 +77,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-11-19 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-11-18 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-11-08 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
+| [Train a Tiny MLP on Your Value Engine](https://www.deep-ml.com/problems/1995) | medium | 2026-11-20 | [solution](problems/1995-train-a-tiny-mlp-on-your-value-engine) |
 | [Woodbury, Sherman-Morrison and the Determinant Lemma](https://www.deep-ml.com/problems/1774) | medium | 2026-11-09 | [solution](problems/1774-woodbury-sherman-morrison-and-the-determinant-lemma) |
 
 ## Math

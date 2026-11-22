@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**99** solved · 70 problems · 0 labs · 29 math
+**100** solved · 71 problems · 0 labs · 29 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Average per group](https://www.deep-ml.com/problems/1108) | easy | 2026-11-11 | [solution](problems/1108-average-per-group) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-11-06 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-11-19 | [solution](problems/0036-calculate-accuracy-score) |
+| [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2026-11-22 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-11-06 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/371) | easy | 2026-11-19 | [solution](problems/0371-calculate-number-of-parameters-in-neural-network) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-11-22 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |

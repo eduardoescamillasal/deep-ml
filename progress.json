@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T17:10:28.997Z",
+  "generated_at": "2026-11-22T17:15:26.302Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1253,6 +1253,19 @@
       "path": "problems/0990-learning-rate-range-finder-for-linear-regression",
       "first_solved_at": "2026-11-22T17:10:24.025Z",
       "last_pushed_at": "2026-11-22T17:10:24.025Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:332": {
+      "kind": "problem",
+      "id": "332",
+      "title": "Check if Matrix is Positive Definite",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/332",
+      "path": "problems/0332-check-if-matrix-is-positive-definite",
+      "first_solved_at": "2026-11-22T17:15:13.114Z",
+      "last_pushed_at": "2026-11-22T17:15:13.114Z",
       "language": "python",
       "lines": 24
     }

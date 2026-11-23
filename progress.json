@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T00:23:53.670Z",
+  "generated_at": "2026-11-23T00:31:45.183Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1279,6 +1279,19 @@
       "path": "math/0038-log-likelihood-gradients",
       "first_solved_at": "2026-11-23T00:23:53.039Z",
       "last_pushed_at": "2026-11-23T00:23:53.039Z"
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-11-23T00:31:44.612Z",
+      "last_pushed_at": "2026-11-23T00:31:44.612Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }

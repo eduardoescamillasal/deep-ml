@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T17:15:26.302Z",
+  "generated_at": "2026-11-23T00:23:53.670Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1268,6 +1268,17 @@
       "last_pushed_at": "2026-11-22T17:15:13.114Z",
       "language": "python",
       "lines": 24
+    },
+    "math:38": {
+      "kind": "math",
+      "id": "38",
+      "title": "Log-Likelihood Gradients",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/38",
+      "path": "math/0038-log-likelihood-gradients",
+      "first_solved_at": "2026-11-23T00:23:53.039Z",
+      "last_pushed_at": "2026-11-23T00:23:53.039Z"
     }
   }
 }

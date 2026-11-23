@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:48:58.178Z",
+  "generated_at": "2026-11-23T19:00:08.652Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1316,6 +1316,17 @@
       "path": "math/0047-gram-schmidt-and-orthonormal-bases",
       "first_solved_at": "2026-11-23T18:48:57.012Z",
       "last_pushed_at": "2026-11-23T18:48:57.012Z"
+    },
+    "math:623": {
+      "kind": "math",
+      "id": "623",
+      "title": "Logarithmic Differentiation: The Derivative and Domain of x^x",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/623",
+      "path": "math/0623-logarithmic-differentiation-the-derivative-and-domain-of-x-x",
+      "first_solved_at": "2026-11-23T19:00:07.733Z",
+      "last_pushed_at": "2026-11-23T19:00:07.733Z"
     }
   }
 }

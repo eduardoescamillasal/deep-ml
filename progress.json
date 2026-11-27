@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T18:46:18.206Z",
+  "generated_at": "2026-11-27T21:23:05.834Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1353,6 +1353,19 @@
       "last_pushed_at": "2026-11-26T18:46:17.551Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:984": {
+      "kind": "problem",
+      "id": "984",
+      "title": "Sample Names from a Bigram Language Model",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/984",
+      "path": "problems/0984-sample-names-from-a-bigram-language-model",
+      "first_solved_at": "2026-11-27T21:23:05.238Z",
+      "last_pushed_at": "2026-11-27T21:23:05.238Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }

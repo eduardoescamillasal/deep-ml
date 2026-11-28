@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**112** solved · 80 problems · 0 labs · 32 math
+**113** solved · 81 problems · 0 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Average Negative Log-Likelihood for Bigram Model](https://www.deep-ml.com/problems/986) | easy | 2026-11-28 | [solution](problems/0986-average-negative-log-likelihood-for-bigram-model) |
 | [Average per group](https://www.deep-ml.com/problems/1108) | easy | 2026-11-11 | [solution](problems/1108-average-per-group) |
 | [Build Bigram Count Matrix from Words](https://www.deep-ml.com/problems/983) | easy | 2026-11-25 | [solution](problems/0983-build-bigram-count-matrix-from-words) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-11-06 | [solution](problems/0008-calculate-2x2-matrix-inverse) |

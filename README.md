@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**113** solved · 81 problems · 0 labs · 32 math
+**114** solved · 82 problems · 0 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -87,6 +87,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-11-19 | [solution](problems/0313-numerical-gradient-checking) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-11-06 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Partitioned Inverse via Schur Complements](https://www.deep-ml.com/problems/1775) | medium | 2026-11-09 | [solution](problems/1775-partitioned-inverse-via-schur-complements) |
+| [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-11-28 | [solution](problems/0309-product-rule-for-derivatives) |
 | [Sample Names from a Bigram Language Model](https://www.deep-ml.com/problems/984) | medium | 2026-11-27 | [solution](problems/0984-sample-names-from-a-bigram-language-model) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-11-19 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-11-18 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |

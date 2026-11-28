@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**116** solved · 84 problems · 0 labs · 32 math
+**117** solved · 85 problems · 0 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -83,6 +83,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-11-26 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-11-15 | [solution](problems/0218-compute-the-hessian-matrix) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-11-06 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
+| [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-11-28 | [solution](problems/0192-implement-the-huber-loss-function) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-11-20 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-11-13 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-11-18 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |

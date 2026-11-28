@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**114** solved · 82 problems · 0 labs · 32 math
+**115** solved · 83 problems · 0 labs · 32 math
 
 ![Coverage](./coverage.svg)
 
@@ -41,6 +41,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the ELU Activation Function](https://www.deep-ml.com/problems/97) | easy | 2026-11-18 | [solution](problems/0097-implement-the-elu-activation-function) |
 | [Implement the Hard Sigmoid Activation Function](https://www.deep-ml.com/problems/96) | easy | 2026-11-18 | [solution](problems/0096-implement-the-hard-sigmoid-activation-function) |
 | [Implement the Softplus Activation Function](https://www.deep-ml.com/problems/99) | easy | 2026-11-18 | [solution](problems/0099-implement-the-softplus-activation-function) |
+| [Implement the Softsign Activation Function](https://www.deep-ml.com/problems/100) | easy | 2026-11-28 | [solution](problems/0100-implement-the-softsign-activation-function) |
 | [Laplace Smoothing for Bigram Probabilities](https://www.deep-ml.com/problems/987) | easy | 2026-11-27 | [solution](problems/0987-laplace-smoothing-for-bigram-probabilities) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-11-18 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Learning Rate Range Finder for Linear Regression](https://www.deep-ml.com/problems/990) | easy | 2026-11-22 | [solution](problems/0990-learning-rate-range-finder-for-linear-regression) |
